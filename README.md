@@ -103,7 +103,7 @@ try {
 }
 ```
 
-### Jquery
+### JQuery
 
 * **Check the single email address**
 
