@@ -3,7 +3,8 @@ Checking numbers of email addresses and receiving untrustful results we develope
 
 Our service can be useful for a single email check as well as for bulk email checks. You can use our services online or leave a task and receive the test results in a file to your email address. 
 
-We provide an API service that allows you to automate totally the procedure of email addresses verification. Please visit [our site] (https://www.emailmagnifier.com/) if you need the trustful email verification. 
+We provide an API service that allows you to automate totally the procedure of email addresses verification. Please visit 
+[our site](https://www.emailmagnifier.com/) if you need the trustful email verification. 
 Thanks for your interest!
 ## Getting Started
 You can read in details the methodology of our verification process [here] (https://www.emailmagnifier.com/our-email-test-process-algorithm.aspx).
