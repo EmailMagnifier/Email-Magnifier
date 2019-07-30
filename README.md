@@ -1,15 +1,21 @@
 # Email Magnifier
-Dealing a lot with email addresses checks and their trustfulness, we developed recently a new service of an email address verification. 
-Our service can be useful for a single email check as well as for bulk email checks. You can use our services online or leave a task and receive the test results in a file to your email address. We provide an API service that allows you to automate totally the procedure of email addresses verification. Please visit our site https://www.emailmagnifier.com/ if you need trustful email verification. 
+Checking numbers of email addresses and receiving untrustful results we developed recently a new service of an email address verification. 
+
+Our service can be useful for a single email check as well as for bulk email checks. You can use our services online or leave a task and receive the test results in a file to your email address. 
+
+We provide an API service that allows you to automate totally the procedure of email addresses verification. Please visit [our site] (https://www.emailmagnifier.com/) if you need the trustful email verification. 
 Thanks for your interest!
 ## Getting Started
-You can read in detail about how the verification process works here: https://www.emailmagnifier.com/our-email-test-process-algorithm.aspx. 
-You can test the system manually, it is possible to check single email address https://www.emailmagnifier.com/online-single-email-address-test.aspx or bulk test several emails addresses https://www.emailmagnifier.com/online-bulk-email-address-test.aspx
+You can read in details the methodology of our verification process [here] (https://www.emailmagnifier.com/our-email-test-process-algorithm.aspx).
+
+You can test the system manually. For single email address verification go to https://www.emailmagnifier.com/online-single-email-address-test.aspx. 
+
+For bulk test proceed to https://www.emailmagnifier.com/online-bulk-email-address-test.aspx
 ## API
 We developed friendly and easy to use web api. You can accesses to the api from any platform supporting http request.
-The api use json format can be used for the request and for the response. You have two options for using our api depending on your needs.
-You can check a single email address and retrieve the response synchronously or check many email addresses and retrieve the response asynchronously.
-You can read more here: https://www.emailmagnifier.com/how-to-use-api.aspx
+The api use json format both for the request and for the response. You have two options for using our api depending on your needs.
+You can check a single email address and get the response synchronously, or check a list of email addresses and get the response asynchronously.
+You can read more [here] (https://www.emailmagnifier.com/how-to-use-api.aspx).
 
 ### C#
 
